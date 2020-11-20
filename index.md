@@ -57,3 +57,10 @@
         }
     }
 </script>
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="CompParalela"
+  agent-id="8bb4b324-09ef-408a-a7d1-3dac00e6772c"
+  language-code="es"
+></df-messenger>
