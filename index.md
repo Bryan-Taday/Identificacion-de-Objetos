@@ -1,4 +1,4 @@
-##Bienvenido a github pagina
+## Welcome to GitHub Pages
 <div>Identificacion de objetos</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
