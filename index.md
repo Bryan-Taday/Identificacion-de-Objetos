@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-<div>Identificacion de objetos</div>
+## Welcome to my Page
+<div>Identificacion de objetos y chatbot con DialogFlow</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
